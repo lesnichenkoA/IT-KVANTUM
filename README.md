@@ -1,2 +1,5 @@
 # IT-KVANTUM
-Repository designed for IT-Kvantum work / Репозиторий предназначен для работы ИТ - Квантума
+✅ Repository designed for IT-Kvantum work / Репозиторий предназначен для работы ИТ - Квантума
+
+❗ _Просьба_
+В Ветке main Делать commit'ы Только Наставникам Для Публикации Каких - Либо Демонстрационных Проектов
